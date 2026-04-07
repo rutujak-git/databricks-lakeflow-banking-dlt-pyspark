@@ -17,7 +17,7 @@ The pipeline automates ingestion, rigorous data cleaning via Expectations, and c
 
 ## 🏗️ Architecture
 
-Kaggle → Unity Catalog Volumes → Auto Loader → DLT Bronze → DLT Silver → DLT Gold → delta tables(streaming tables, materialized views, views) → Databricks SQL Dashboards → Databricks Jobs/ Workflows
+Unity Catalog Volumes → Auto Loader → DLT Bronze → DLT Silver → DLT Gold → delta tables(streaming tables, materialized views, views) → Databricks SQL Dashboards → Databricks Jobs/ Workflows
 
 <img width="1564" height="872" alt="image" src="https://github.com/user-attachments/assets/060ac933-07c9-471f-b318-98283518b943" />
 
