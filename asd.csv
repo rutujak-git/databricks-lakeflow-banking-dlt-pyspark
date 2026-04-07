@@ -1,0 +1,2 @@
+﻿account_id,customer_id,account_type,balance,txn_id,txn_date,txn_type,txn_amount,txn_channel
+403011,301,LOAN,0,4,2024-03-30,DEBIT,0,ONLINE
